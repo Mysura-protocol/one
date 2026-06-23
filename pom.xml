@@ -26,8 +26,8 @@
 	</dependencies>
 	<repositories>
 		<repository>
-  <id>mydevops-feed</id>
-  <url>https://pkgs.dev.azure.com/shaikmustafa8991/myproject/_packaging/mydevops-feed/maven/v1</url>
+  <id>nexusRepo</id>
+  <url>http://18.61.60.53:8081/repository/myrepo/</url>
   <releases>
     <enabled>true</enabled>
   </releases>
